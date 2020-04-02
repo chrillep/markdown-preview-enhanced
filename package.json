@@ -70,7 +70,7 @@
     "chinese-conv": "^1.0.1",
     "prettier": "^1.11.1",
     "prettier-check": "^2.0.0",
-    "tslint": "^5.9.1",
+    "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.10.0",
     "typescript": "^2.7.2"
   }
