@@ -68,7 +68,7 @@
     "@types/mocha": "^2.2.47",
     "@types/node": "^9.4.0",
     "chinese-conv": "^1.0.1",
-    "prettier": "^1.11.1",
+    "prettier": "^2.3.0",
     "prettier-check": "^2.0.0",
     "tslint": "^5.9.1",
     "tslint-config-prettier": "^1.10.0",
